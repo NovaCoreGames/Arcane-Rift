@@ -7,5 +7,5 @@
   "macos_url": "",
   "macos_exe": "",
   "android_url": "https://github.com/NovaCoreGames/Arcane-Rift/releases/download/Godot/Arcane.Rift.zip",
-  "android_exe": "arcanerift_signed.apk"
+  "android_exe": "Arcane Rift.apk",
 }
