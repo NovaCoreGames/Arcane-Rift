@@ -6,6 +6,6 @@
   "linux_exe": "",
   "macos_url": "",
   "macos_exe": "",
-  "android_url": "https://github.com/NovaCoreGames/Arcane-Rift/releases/download/Godot/arcane_rift_launcher_2025-05-07_21-04-35.zip",
+  "android_url": "https://github.com/NovaCoreGames/Arcane-Rift/releases/download/Godot/arcanerift_signed.apk.zip",
   "android_exe": "arcanerift_signed.apk"
 }
